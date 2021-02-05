@@ -1,1 +1,1 @@
-# dhminor2021
+# Минор "Digital Humanities" 2021 год 
