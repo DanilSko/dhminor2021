@@ -1,7 +1,12 @@
 # Минор "Digital Humanities" 2021 год 
 
+[Чат в Telegram](https://t.me/joinchat/HlJGr1fp6qt7nYmy)
 
 ## 6 февраля: что за Digital Humanities и зачем они нужны?
+
+* [Презентация](https://danilsko.github.io/slides/dhminor2021/intro2021)
+
+* Тут будет видео:
 
 ## 13 февраля: корпусные методы в Digital Humanities. Корпусные менеджеры.
 
