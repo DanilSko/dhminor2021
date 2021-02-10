@@ -6,7 +6,9 @@
 
 * [Презентация](https://danilsko.github.io/slides/dhminor2021/intro2021)
 
-* Тут будет видео:
+* Видео:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Flm8RYJsxJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 13 февраля: корпусные методы в Digital Humanities. Корпусные менеджеры.
 
