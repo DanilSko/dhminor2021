@@ -12,6 +12,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Flm8RYJsxJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+[Опрос](https://forms.gle/e94iyjTYGwTpPKgdA)
+
 ## 13 февраля: корпусные методы в Digital Humanities. Корпусные менеджеры.
 
 ## 20 февраля: стилометрия. Библиотека Stylo.  
