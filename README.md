@@ -15,7 +15,11 @@
 
 [Опрос](https://forms.gle/e94iyjTYGwTpPKgdA)
 
-## 13 февраля: корпусные методы в Digital Humanities. Корпусные менеджеры.
+## 13 февраля: идея Distant Reading. Корпусные методы в Digital Humanities. Корпусные менеджеры.
+
+* [Презентация](https://danilsko.github.io/slides/dhminor2021/distantreading2021)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CLtD3PUjSf0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 20 февраля: стилометрия. Библиотека Stylo.  
 
