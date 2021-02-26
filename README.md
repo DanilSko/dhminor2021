@@ -19,9 +19,16 @@
 
 * [Презентация](https://danilsko.github.io/slides/dhminor2021/distantreading2021)
 
+Видео:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CLtD3PUjSf0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 20 февраля: стилометрия. Библиотека Stylo.  
+
+* [Презентация](https://docs.google.com/presentation/d/11UErrqKG3xvZ0x2JDpU_jzcmSda_TbtJxZCGS-ikbN0/edit?usp=sharing)
+
+Видео:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aek5AJx74MQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 27 февраля: продвинутая стилометрия. 
 
