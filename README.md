@@ -32,7 +32,15 @@
 
 ## 27 февраля: продвинутая стилометрия. 
 
+* [Презентация](https://slides.com/danilsko/stylometry_minor2021_part_2)
+
+Видео:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f4Ez7TwQM30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 6 марта: защита проектов 1 — командная презентация 
+
+[Порядок выступлений](https://docs.google.com/spreadsheets/d/1z0Y3aA5wJ4pYrei4fsgeGSHTvOpnETysbLCEEAwbsqg/edit?usp=sharing)
 
 ## 13 марта: сетевой анализ в гуманитарных науках. 
 
