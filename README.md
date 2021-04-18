@@ -2,6 +2,19 @@
 
 [Чат в Telegram](https://t.me/joinchat/HlJGr1fp6qt7nYmy)
 
+# Часть 2
+
+## 17 апреля: цифровое сохранение и цифровая (ре)презентация культурного наследия
+
+* Видео:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FlKhZmvH2cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+* [Презентация](https://docs.google.com/presentation/d/1Z3hkchcb_nuXhxdNG2KOxC0zTJLpPJDNGLlMeQh_RmQ/edit?usp=sharing)
+
+# Часть 1
+
 ## 6 февраля: что за Digital Humanities и зачем они нужны?
 
 * [Презентация](https://danilsko.github.io/slides/dhminor2021/intro2021)
