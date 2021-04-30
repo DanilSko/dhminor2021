@@ -4,6 +4,15 @@
 
 # Часть 2
 
+
+## 24 апреля: TEI
+
+* Видео:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09EEGgeqh0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Презентация](https://docs.google.com/presentation/d/1w9jOnqCEC8Kx9cz0D-SCIB6I9naqJBBiR41G3oZip5Y/edit?usp=sharing)
+
 ## 17 апреля: цифровое сохранение и цифровая (ре)презентация культурного наследия
 
 * Видео:
