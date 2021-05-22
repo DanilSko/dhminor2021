@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Что за место": "тут живет даня!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.741942405700684,
+          55.759746238145084
+        ]
+      }
+    }
+  ]
+}
