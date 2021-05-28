@@ -5,6 +5,14 @@
 # Часть 2
 
 
+## 22 мая: Карты, геоинформационные системы, QGIS часть 1 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6IQkDLGhp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Презентация](https://docs.google.com/presentation/d/1eDDKIw9r82TYeo01HWcvIO57Q7CGic6Yn8QRDQL6tzY/edit?usp=sharing)
+
+[Практикум в QGIS](https://docs.google.com/document/d/1u0o3IimujyoDoqwq8M9vdNvzSMlQ0cUzA2DNSFNq-Tc/edit?usp=sharing) -- делали только первую часть
+
 ## 24 апреля: TEI
 
 * Видео:
