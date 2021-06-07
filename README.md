@@ -11,6 +11,20 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3XRJhh0b7bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 29 мая: GIS в гуманитарных исслдеованиях, QGIS часть 2
+
+[Презентация](https://docs.google.com/presentation/d/1Vfh6EVKA5FxpHh0wU_0T34WCB50UJhYjNTjFF3L9QAk/edit?usp=sharing)
+
+Первая пара: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ymt-FRJyY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Вторая пара: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1EaFyhXrZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Практикум по привязке растра](https://docs.google.com/document/d/1uktThrnxeIezHcwLp-wSe0RYMOPkqP86-819VKivK7Y/edit?usp=sharing)
+
 ## 22 мая: Карты, геоинформационные системы, QGIS часть 1 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6IQkDLGhp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
